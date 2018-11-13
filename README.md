@@ -7,6 +7,6 @@ A continuación describimos el contenido del repositorio SLVMSimulator:
 
 * En la carpeta graphics encontramos el logo del programa SLVMSimulator, el cual será necesario para poder compilarlo y hacer el que programa desplegue un ícono.
 
-* En la carpeta principal se localiza el archivo SLVMSimulator.jar, el cual es un ejecutable .jar, el cual se podrá abrir al tener instalado Java en su computadora. https://www.java.com/en/download/
+* En la carpeta principal se localiza el archivo SLVMSimulator.jar, que es el ejecutable compilado del programa descrito en el primer punto. Se podrá abrir al tener instalado Java en su computadora. https://www.java.com/en/download/
 
 * En la carpeta src encontrará el programa SLVMSimulator en una versión no gráfica, mediante la cual se pueden realizar varias simulaciones, guardando los datos resultantes de la simulación (población de depredadores y de presas, tiempo de ejecución, parámetros de movilidad y demográficos).
